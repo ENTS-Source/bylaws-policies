@@ -26,8 +26,8 @@ The current notable exceptions include:
   * Sanitizer or all purpose cleaner on table surfaces.
   * Foodsafe descaler in the hot water boiler.
   * Window cleaner on windows/mirrors.
-* Cleaning the exterior of tools and equipment with appropriate cleaners.
+* Cleaning the exterior of tools and equipment with appropriate cleaners and tools.
 * Vacuuming out the inside of the table saw, bandsaw, etc.
-* Changing the dust collector bags.
+* Changing or emptying the dust collector bags.
 * Dusting surfaces.
 * Vacuuming chairs and door mats.
