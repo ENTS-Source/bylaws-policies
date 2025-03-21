@@ -12,6 +12,7 @@ Any alteration, upkeep, or repair to tools, equipment, software, or the building
 
 1. No Member may perform Maintenance without prior written approval from the Board of Directors.
    1. Exceptions written below are considered written approval.
+2. Members should report any required Maintenance to the Board of Directors for review.
 
 ## Exceptions
 
