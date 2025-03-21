@@ -3,8 +3,8 @@
 Administrative details:
 
 * Status: Proposed
-* Earliest effective date: March 31, 2025
-* Updated: March 18, 2025
+* Earliest effective date (if ratified): March 31, 2025
+* Updated: March 21, 2025
 
 ## General
 
