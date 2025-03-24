@@ -1,10 +1,6 @@
 # Policy: ENTS Credits
 
-Administrative details:
-
-* Status: Proposed
-* Earliest effective date (if ratified): March 31, 2025
-* Updated: March 16, 2025
+This policy takes effect on March 31, 2025.
 
 ## General
 
