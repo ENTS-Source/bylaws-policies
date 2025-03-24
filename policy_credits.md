@@ -19,7 +19,8 @@ This policy serves as a Card's Terms and Conditions.
    1. No transaction can result in a balance less than $0.00.
    2. No transaction can result in a balance above $30.00.
       1. The Board of Directors may alter this limit on a per-Card basis. If the new limit is less than the Card's existing balance, the Card retains that balance. The imposed balance cannot be less than the minimum balance in 4.1.
-   3. The Board of Directors may add positive balance to any Card. This act may exceed the maximum balance in 4.2.
+      2. No Card, under any circumstance, can have a maximum balance that is more than double the balance listed in 4.2.
+   3. The Board of Directors may add positive balance to any Card. This act may exceed the maximum balance in 4.2, but cannot exceed the maximum balance of 4.2.2.
    4. Using a Card decrements the appropriate amount from the Card's balance.
    5. Any portion of a Card's balance may be transferred to any other Card at the request of the originating Card's owner.
       1. When a Member receives a replacement fob, the balance from the old fob is automatically transferred in full to the new fob.
