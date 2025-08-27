@@ -150,7 +150,7 @@ Updated: September 24, 2024
         6. Three Directors shall be considered a quorum for all Directors Meetings; votes shall be passed by a simple majority unless otherwise agreed upon.
         7. If there is no quorum, the chairperson may adjourn the meeting to the same time, place, and day of the following week.  If urgent matters requiring quorum have been tabled as a result, The Directors present at this later meeting shall constitute quorum regardless of their number.
         8. Each Director has one vote.
-        9. Directors Meetings are open to Members of the Society, but only Directors may vote.  A majority vote of The Board may ask any other Member or other persons to leave.
+        9. Directors Meetings are open to Members in Good Standing, but only Directors may vote.  A majority vote of The Board may ask any other Member or other persons to leave.
         10. A majority vote of The Board may move a meeting, or any portion thereof, in-camera at any time.
         11. All Directors may agree to and sign a resolution at any time.  This resolution is as valid as one passed at any Directors Meeting.  It is not necessary to give notice or to call a Directors Meeting for the resolution in this case.  The date on the resolution is the date it is passed.
         12. Any member of The Board unable to attend a meeting may send a proxy to represent them at that meeting.  The proxy shall:
