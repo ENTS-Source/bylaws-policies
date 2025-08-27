@@ -114,9 +114,8 @@ Updated: September 24, 2024
         2. The officers of The Society shall be a President, Secretary and Treasurer. The roles of Secretary and Treasurer may be the combined into the single office of Secretary-Treasurer.
         3. The office of President and Secretary shall be filled at all times. The Board shall appoint a Director to fill these positions should a vacancy arise.
         4. The Board shall appoint the Officers of The Society. All Officer appointments shall be ratified at the next Meeting of the Membership of The Society.
-        5. A director may not serve more than four consecutive years in a single office. Terms served shorter than one year will be counted as one year. The membership may vote at any time to permit a Director to continue in their office beyond this limit.
-        6. A director may serve on the Board for an indefinite number of terms.
-        7. When a Director resigns or is removed from the board, that Director cannot be re-elected to the Board for six months from the time of resignation. The membership may vote to override this at a Special General Meeting.
+        5. A director may serve on the Board for an indefinite number of terms.
+        6. When a Director resigns or is removed from the board, that Director cannot be re-elected to the Board for six months from the time of resignation. The membership may vote to override this at a Special General Meeting.
 
     3. Qualifications
 
