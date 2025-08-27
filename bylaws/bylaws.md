@@ -46,7 +46,7 @@ Updated: September 24, 2024
     2. Fees and Dues
 
         1. Application Fees and Membership Dues, if any, for The Society shall be documented accordingly in The Society Policies.
-        2. Membership Dues, if any, shall be due monthly from each member. Membership Dues may be paid in advance at the discretion or request of The Society or the individual Member in question.
+        2. Membership Dues, if any, shall be due monthly from each member. Membership Dues may be paid at most 3 months in advance at the discretion or request of The Society or the individual Member in question.
         3. Members in good standing will be notified a minimum of one calendar month in advance of changes to the monthly membership dues.
         4. All fees and dues shall be considered non-refundable.
 
@@ -77,11 +77,11 @@ Updated: September 24, 2024
 
     5. Termination or Suspension of Membership
 
-        1. Any Member may resign from The Society by providing written notice to a Director.
+        1. Any Member may resign from The Society by providing written notice to The Board.
         2. The membership of a Member is ended upon death.
         3. If a Member is in arrears for a period of time as defined in The Society policies, their membership may be terminated by The Board.
         4. The Society may, upon a majority vote of all members, or a three-quarters majority vote at a regular meeting with quorum, expel any Member for any cause which is deemed sufficient in the interests of the Society.
-        5. Any member may temporarily suspend their membership by providing notice to The Board of their intent.
+        5. Any member may temporarily suspend their membership within the bounds of the Society Policies by providing notice to The Board of their intent.
 
     6. Membership Classifications
 

@@ -8,19 +8,21 @@ The name of the space is currently not set.
 
 #### ARTICLE 2. APPLICATION FEE
 
-The current Application Fees for ENTS membership are currently not set.
+The Application Fees for ENTS membership are currently not set.
 
 #### ARTICLE 3. MEMBERSHIP DUES AND CLASSIFICATIONS
 
-The current monthly Membership Dues are $100 CAD. Members have the option to pay for a yearly membership for $1000 CAD for twelve consecutive months of membership from the date of purchase. The Board may, in its sole discretion, extend lowered rates for Membership Dues to individuals as the Board deems suitable. All members paying rates under this classification, lowered or otherwise, are Members in Good Standing.
+All memberships begin on the date of purchase or as arranged in Bylaw 4.2.2. The monthly Membership Dues are $100 CAD. Members have the option to pre-pay $1000 CAD for tweleve consecutive months of membership. The Board may, in its sole discretion, extend lowered rates for Membership Dues to individuals as the Board deems suitable. All members paying rates under this classification, lowered or otherwise, are Members in Good Standing.
 
 The Board may offer sponsored memberships to individuals or organizations at its sole discretion. Members holding a sponsored membership have the same rights as Members in Good Standing with the exception of the right to vote.
 
-Any non-member who donates funds to the Society on a regular basis holds a Friends of ENTS Membership. Friends of ENTS do not receive any rights beyond those available to non-members.
+Recurring or single financial donations to the Society shall not be considered memberships.
 
 The Board may, from time to time, create or offer promotional memberships to new or existing members of the Society. Promotional memberships are considered Members in Good Standing unless otherwise defined in the conditions of the membership or in the Society Policies.
 
-Members who have not paid their fees or dues within six calendar months may have their membership terminated by the Board.
+Members who have not paid their fees or dues within six calendar months of when they were due may have their membership terminated by the Board.
+
+Members may temporarily suspend their membership at their next monthly payment date. Members which pay membership dues for more than a single month in advance may suspend their membership at most twice within their payment term for no less than 1 calendar month and no more than 25% of their payment term, rounded up to the nearest whole month, each time starting any day within the payment term at the Member's request.
 
 #### ARTICLE 4. DEEMED WITHDRAWAL
 
