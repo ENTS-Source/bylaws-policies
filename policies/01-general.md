@@ -22,7 +22,7 @@ The Board may, from time to time, create or offer promotional memberships to new
 
 Members who have not paid their fees or dues within six calendar months of when they were due may have their membership terminated by the Board.
 
-Members may temporarily suspend their membership at their next monthly payment date. Members which pay membership dues for more than a single month in advance may suspend their membership at most twice within their payment term for no less than 1 calendar month and no more than 25% of their payment term, rounded up to the nearest whole month, each time starting any day within the payment term at the Member's request.
+Members may temporarily suspend their membership at their next monthly payment date. Members which pay membership dues for more than a single month in advance may suspend their membership at most twice within their payment term for no less than 1 calendar month and no more than 25% of their payment term, rounded up to the nearest whole month, each time starting any day within the payment term at the Member's request. Members with a suspended membership, for any reason, are not Members in Good Standing for the duration of that suspension.
 
 #### ARTICLE 4. DEEMED WITHDRAWAL
 
