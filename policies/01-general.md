@@ -34,7 +34,7 @@ Whenever possible, General Meetings are to be held on a Sunday within the calend
 
 #### ARTICLE 6. BOARD MEETING SCHEDULE
 
-The Board generally meets every second Thursday evening.
+Board Meetings are generally held on weekday evenings when scheduled. At least one Director is expected to attend scheduled public access times to the Space, such as during public tours and open houses.
 
 #### ARTICLE 7. COMPENSATION AND EXPENSES
 
