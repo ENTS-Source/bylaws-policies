@@ -157,7 +157,7 @@ Updated: September 24, 2024
 
             1. Represent The Director, including voting on their behalf;
             2. Be a Member in Good Standing;
-            3. Not be another Director.
+            3. Not be another Director already acting as a proxy;
 
         13. The ultimate authority for conducting any meeting of The Society and all its committees shall be an unabridged edition of Robert’s _Rules of Order_.
     7. Duties of the President
