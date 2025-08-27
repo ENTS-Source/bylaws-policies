@@ -275,7 +275,8 @@ Updated: September 24, 2024
 
     2. Budget and Expenditures
 
-        1. The President and Treasurer shall draw up a proposed budget for the coming fiscal year and present it to The Board for consideration prior to the Annual General Meeting.
+        1. The President and Treasurer shall draw up a proposed budget for the coming fiscal year and present it to The Board for consideration prior to the fiscal year starting.
+           1. The Society shall operate on the most recently approved budget if The Board has not approved a budget for the fiscal year, until a budget is approved.
         2. Expenditures of funds allocated in the budget shall have the approval of the Board before payment is made.
 
     3. Finance and Auditing
