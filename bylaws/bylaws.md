@@ -110,7 +110,7 @@ Updated: September 24, 2024
 
     2. Composition
 
-        1. The Board shall consist of five to seven members. The Board is elected by the members of The Society.
+        1. The Board shall consist of three to seven members. The Board is elected by the members of The Society.
         2. The officers of The Society shall be a President, Secretary and Treasurer. The roles of Secretary and Treasurer may be the combined into the single office of Secretary-Treasurer.
         3. The office of President and Secretary shall be filled at all times. The Board shall appoint a Director to fill these positions should a vacancy arise.
         4. The Board shall appoint the Officers of The Society. All Officer appointments shall be ratified at the next Meeting of the Membership of The Society.
@@ -147,7 +147,7 @@ Updated: September 24, 2024
         3. The President shall call and chair the meetings.  The President shall also call a meeting if any two Directors make such a request by providing notice or while having the floor at a general meeting or Board meeting, and state the business for the meeting.
         4. Seven days notice for regular Directors Meetings is provided to each Director.  As much notice as is possible shall be given for unscheduled or urgent meetings.
         5. Directors Meetings may be held without notice if a quorum of The Board is present, provided that any business transactions at such a meeting shall be ratified at the next regularly called Directors Meeting; otherwise they shall be null and void.
-        6. Three Directors shall be considered a quorum for all Directors Meetings; votes shall be passed by a simple majority unless otherwise agreed upon.
+        6. One half of Directors, rounded up, shall be considered a quorum for all Directors Meetings; votes shall be passed by a simple majority unless otherwise agreed upon.
         7. If there is no quorum, the chairperson may adjourn the meeting to the same time, place, and day of the following week.  If urgent matters requiring quorum have been tabled as a result, The Directors present at this later meeting shall constitute quorum regardless of their number.
         8. Each Director has one vote.
         9. Directors Meetings are open to Members of the Society, but only Directors may vote.  A majority vote of The Board may ask any other Member or other persons to leave.
