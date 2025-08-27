@@ -40,7 +40,7 @@ Members may receive payment as compensation for time spent working on projects o
 
 With prior Board approval, reasonable expenses incurred while carrying out duties of the Society may be reimbursed.
 
-All expenses must be submitted by the Annual General Meeting.
+All expenses for the previous fiscal year must be submitted at most two weeks before the Annual General Meeting following that fiscal year.
 
 No person may receive waived fees as compensation.
 
