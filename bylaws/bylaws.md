@@ -159,7 +159,6 @@ Updated: September 24, 2024
             2. Be a Member in Good Standing;
             3. Not be another Director.
 
-        13. The ultimate authority for conducting any meeting of The Society and all its committees shall be an unabridged edition of Robert’s _Rules of Order_.
     7. Duties of the President
 
         The president:
@@ -266,6 +265,11 @@ Updated: September 24, 2024
         1. Accidental omission to give any notice to any Member; or
         2. Any Member not receiving any notice; or
         3. Any error in any notice that does not affect the meaning.
+
+    5. Logistics
+
+        1. The ultimate authority for conducting any meeting of The Society, including Directors Meetings, and all its committees shall be an unabridged edition of Robert’s _Rules of Order_.
+        2. Any meeting of The Society, including Directors Meetings, and all its committees may be held electronically using voice and/or video conferencing.
 
 7. Finances
 
