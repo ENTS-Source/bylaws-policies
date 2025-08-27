@@ -28,7 +28,7 @@ An applicant is to be considered having tendered resignation if the Application 
 
 #### ARTICLE 5. GENERAL MEETING SCHEDULE
 
-Whenever possible, General Meetings are to be held on the second Sunday of each calendar month, from 1:00 PM on, at the Space. Exceptions are generally made for long weekends.
+Whenever possible, General Meetings are to be held on a Sunday within the calendar quarter, from 1:00 PM on, at the Space. Exceptions are generally made for long weekends.
 
 #### ARTICLE 6. BOARD MEETING SCHEDULE
 
