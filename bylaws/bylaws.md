@@ -277,7 +277,7 @@ Updated: September 24, 2024
 
         1. The President and Treasurer shall draw up a proposed budget for the coming fiscal year and present it to The Board for consideration prior to the Annual General Meeting.
         2. Expenditures of funds allocated in the budget shall have the approval of the Board before payment is made.
-        3. A Special General Meeting shall be called by the Board for the purpose of approving an expenditure's value, be it an individual contract or cumulative value with the same entity within the fical year, which exceeds 5% of the Society's last filed annual income.
+        3. A Special General Meeting shall be called by the Board for the purpose of approving an expenditure's value, be it an individual contract or cumulative value with the same entity within the fiscal year, which exceeds 5% of the Society's last filed annual income.
 
     3. Finance and Auditing
 
