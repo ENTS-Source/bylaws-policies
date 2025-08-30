@@ -12,7 +12,7 @@ The current Application Fees for ENTS membership are currently not set.
 
 #### ARTICLE 3. MEMBERSHIP DUES AND CLASSIFICATIONS
 
-All memberships begin on the date of purchase or as arranged in Bylaw 4.2.2. The monthly Membership Dues are $100 CAD. Members have the option to pre-pay $1000 CAD for tweleve consecutive months of membership. The Board may, in its sole discretion, extend lowered rates for Membership Dues to individuals as the Board deems suitable. All members paying rates under this classification, lowered or otherwise, are Members in Good Standing.
+The monthly Membership Dues are $100 CAD. Members have the option to pre-pay $1000 CAD for twelve consecutive months of membership. The Board may, in its sole discretion, extend lowered rates for Membership Dues to individuals as the Board deems suitable. All members paying rates under this classification, lowered or otherwise, are Members in Good Standing.
 
 The Board may offer sponsored memberships to individuals or organizations at its sole discretion. Members holding a sponsored membership have the same rights as Members in Good Standing with the exception of the right to vote.
 
