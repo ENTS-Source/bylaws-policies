@@ -22,6 +22,8 @@ The Board may, from time to time, create or offer promotional memberships to new
 
 Members who have not paid their fees or dues within six calendar months may have their membership terminated by the Board.
 
+Members may temporarily suspend their membership while deferring their Membership Dues for 2 to 12 weeks. Members may temporarily suspend their membership up to two times in a calendar year when also deferring their Membership Dues. There are no limits to the duration or frequency of suspensions which do not defer Membership Dues. Members with a suspended membership, for any reason, are not Members in Good Standing for the duration of that suspension.
+
 #### ARTICLE 4. DEEMED WITHDRAWAL
 
 An applicant is to be considered having tendered resignation if the Application Fee has not been paid within three months of application.
