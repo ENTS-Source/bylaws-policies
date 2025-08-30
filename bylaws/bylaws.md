@@ -68,7 +68,7 @@ Updated: September 24, 2024
 
         1. All Members are required to agree to the current Society Policies.
         2. Members will be responsible for all intentional or incidental damages to other members’ or Society property.  If the responsibility for or extent of damages is argued by any other member, the matter may be submitted to arbitration under the Arbitration Act.
-        3. A Member may not conduct primarily business pursuits within the Society, without any further interaction, education, or collaboration with the general membership.
+        3. A Member may not use the Society's facilities for mass manufacturing. "Mass manufacturing" means repeated production of substantially identical items at a volume or cadence consistent with inventory building or order fulfillment, or activity that monopolizes shared equipment.
         4. Any Member may be subject to disciplinary action for any reason the society deems reasonable
         5. Breaches of the Bylaws or Policies will be brought to the attention of the Board of Directors. The President has the right to suspend membership pending a determination of the matter. A panel of at least 3 Directors will be convened by the President to determine whether in fact a rule has been breached and, if so, the appropriate sanction. The affected member will have the right to appear before the panel and be made aware of the allegations of breach and the information in support. They will have the right to present information and make representations as to finding or sanction, if any. Finally, they will have the right to a prompt decision and the reasons for it.
 
