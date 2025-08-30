@@ -153,11 +153,11 @@ Updated: September 24, 2024
         9. Directors Meetings are open to Members in Good Standing, but only Directors may vote.  A majority vote of The Board may ask any other Member or other persons to leave.
         10. A majority vote of The Board may move a meeting, or any portion thereof, in-camera at any time.
         11. All Directors may agree to and sign a resolution at any time.  This resolution is as valid as one passed at any Directors Meeting.  It is not necessary to give notice or to call a Directors Meeting for the resolution in this case.  The date on the resolution is the date it is passed.
-        12. Any member of The Board unable to attend a meeting may send a proxy to represent them at that meeting.  The proxy shall:
+        12. Directors shall not be able to assign proxies to represent them at Directors Meetings.
 
-            1. Represent The Director, including voting on their behalf;
-            2. Be a Member in Good Standing;
-            3. Not be another Director already acting as a proxy;
+            1. *Removed*.
+            2. *Removed*.
+            3. *Removed*.
 
         13. The ultimate authority for conducting any meeting of The Society and all its committees shall be an unabridged edition of Robert’s _Rules of Order_.
     7. Duties of the President
