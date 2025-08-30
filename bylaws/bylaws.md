@@ -110,7 +110,7 @@ Updated: September 24, 2024
 
     2. Composition
 
-        1. The Board shall consist of three to seven members. The Board is elected by the members of The Society.
+        1. The Board shall consist of five members. The Board is elected by the members of The Society.
         2. The officers of The Society shall be a President, Secretary and Treasurer. The roles of Secretary and Treasurer may be the combined into the single office of Secretary-Treasurer.
         3. The office of President and Secretary shall be filled at all times. The Board shall appoint a Director to fill these positions should a vacancy arise.
         4. The Board shall appoint the Officers of The Society. All Officer appointments shall be ratified at the next Meeting of the Membership of The Society.
