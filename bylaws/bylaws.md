@@ -145,7 +145,7 @@ Updated: September 24, 2024
         1. The Board shall meet at least monthly.
         2. The Board may set regulations governing the calling and medium of its meetings (notice, date, time, and place), the conduct of business thereat, and generally as to the conduct of its affairs.  These will be documented in The Society Policies.
         3. The President shall call and chair the meetings.  The President shall also call a meeting if any two Directors make such a request by providing notice or while having the floor at a general meeting or Board meeting, and state the business for the meeting.
-        4. Three days notice for regular Directors Meetings is provided to each Director.  As much notice as is possible shall be given for unscheduled or urgent meetings.
+        4. *Removed*.
         5. Directors Meetings may be held without notice if a quorum of The Board is present, provided that any business transactions at such a meeting shall be ratified at the next regularly called Directors Meeting; otherwise they shall be null and void.
         6. Three Directors shall be considered a quorum for all Directors Meetings; votes shall be passed by a simple majority unless otherwise agreed upon.
         7. If there is no quorum, the chairperson may adjourn the meeting to the same time, place, and day of the following week.  If urgent matters requiring quorum have been tabled as a result, The Directors present at this later meeting shall constitute quorum regardless of their number.
