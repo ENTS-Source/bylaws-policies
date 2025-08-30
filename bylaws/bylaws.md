@@ -142,7 +142,7 @@ Updated: September 24, 2024
 
     6. Directors Meetings
 
-        1. Where the Board is not performing its duties and responsibilities monthly, the Board shall meet at least monthly.
+        1. The Board shall meet at least monthly.
         2. The Board may set regulations governing the calling and medium of its meetings (notice, date, time, and place), the conduct of business thereat, and generally as to the conduct of its affairs.  These will be documented in The Society Policies.
         3. The President shall call and chair the meetings.  The President shall also call a meeting if any two Directors make such a request by providing notice or while having the floor at a general meeting or Board meeting, and state the business for the meeting.
         4. Three days notice for regular Directors Meetings is provided to each Director.  As much notice as is possible shall be given for unscheduled or urgent meetings.
