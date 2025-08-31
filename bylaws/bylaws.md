@@ -180,7 +180,7 @@ Updated: September 24, 2024
         2. Provides a detailed account of revenues and expenditures to The Board upon request; and
         3. Ensures an audited statement of the financial position of The Society is prepared and presented to the Annual General Meeting; and
         4. Submits monthly financial reports to The Board; and
-        5. Reports and reconciles the year’s expenditures within three weeks of the end of the fiscal year; and
+        5. Reports and reconciles the year’s expenditures within 1 week of the submission deadline for expenses in the Society Policies; and
         6. Oversees organization of fundraising committees; and
         7. Assists the President in the solicitation of financial assistance for The Society.
 
