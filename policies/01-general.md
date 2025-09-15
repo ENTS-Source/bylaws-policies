@@ -26,9 +26,9 @@ Members who have not paid their fees or dues within six calendar months may have
 
 An applicant is to be considered having tendered resignation if the Application Fee has not been paid within three months of application.
 
-#### ARTICLE 5. GENERAL MEETING SCHEDULE
+#### ARTICLE 5.
 
-Whenever possible, General Meetings are to be held on the second Sunday of each calendar month, from 1:00 PM on, at the Space. Exceptions are generally made for long weekends.
+*Removed*.
 
 #### ARTICLE 6. BOARD MEETING SCHEDULE
 
