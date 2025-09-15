@@ -81,7 +81,7 @@ Updated: September 24, 2024
         2. The membership of a Member is ended upon death.
         3. If a Member is in arrears for a period of time as defined in The Society policies, their membership may be terminated by The Board.
         4. The Society may, upon a majority vote of all members, or a three-quarters majority vote at a regular meeting with quorum, expel any Member for any cause which is deemed sufficient in the interests of the Society.
-        5. Any member may temporarily suspend their membership by providing notice to The Board of their intent.
+        5. Any member may temporarily suspend their membership within the bounds of the Society Policies by providing notice to The Board of their intent.
 
     6. Membership Classifications
 
