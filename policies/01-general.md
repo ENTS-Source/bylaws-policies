@@ -32,7 +32,7 @@ An applicant is to be considered having tendered resignation if the Application 
 
 #### ARTICLE 6. BOARD MEETING SCHEDULE
 
-The Board generally meets every second Thursday evening.
+The Board meets the first Tuesday evening of the month at the Space. Additional meetings may be called as needed with as much as notice as possible.
 
 #### ARTICLE 7. COMPENSATION AND EXPENSES
 
