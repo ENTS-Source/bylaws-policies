@@ -202,6 +202,7 @@ Updated: September 24, 2024
         4. Two days notice is provided to each member of the committee.  The notice states the date, place and time of the committee meeting.  Committee members may waive notice.
         5. A majority of the committee members present at a meeting is quorum.
         6. Each member of the committee, including the Chairperson, has one vote at the committee meeting.
+        7. All members of the committee, including the Chairperson, must be Members in Good Standing.
 
 6. Meetings of the Society
 
