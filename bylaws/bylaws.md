@@ -1,6 +1,6 @@
 # Bylaws
 
-Updated: September 24, 2024
+Updated: September 14, 2025
 
 1. NAME AND DOCUMENT PURPOSE
     1. Name

@@ -1,6 +1,6 @@
 # Policies
 
-Updated: February 26, 2023
+Updated: September 14, 2025
 
 #### ARTICLE 1. NAME OF THE SPACE
 
