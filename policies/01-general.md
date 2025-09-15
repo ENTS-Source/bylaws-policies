@@ -28,15 +28,11 @@ Members may temporarily suspend their membership while deferring their Membershi
 
 An applicant is to be considered having tendered resignation if the Application Fee has not been paid within three months of application.
 
-#### ARTICLE 5.
-
-*Removed*.
-
-#### ARTICLE 6. BOARD MEETING SCHEDULE
+#### ARTICLE 5. BOARD MEETING SCHEDULE
 
 The Board meets the first Tuesday evening of the month at the Space. Additional meetings may be called as needed with as much as notice as possible.
 
-#### ARTICLE 7. COMPENSATION AND EXPENSES
+#### ARTICLE 6. COMPENSATION AND EXPENSES
 
 Members may receive payment as compensation for time spent working on projects of the Society. Any honorarium amount must be based upon comparable work in the private sector.
 
@@ -46,15 +42,15 @@ All expenses must be submitted within 30 days of the fiscal year closing.
 
 No person may receive waived fees as compensation.
 
-#### ARTICLE 8. BOARD TRAINING
+#### ARTICLE 7. BOARD TRAINING
 
 The Board will look for opportunities of board development, such as the Board Development Program. While not mandatory for Directors to attend these development seminars, though it is strongly recommended for all Directors to attend. Directors which have previously attended a seminar should attend the yearly Board Development Program seminar, if available.
 
-#### ARTICLE 9. REQUESTING BOOKS AND RECORDS
+#### ARTICLE 8. REQUESTING BOOKS AND RECORDS
 
 The board will make the best effort to publish approved minutes to the membership securely.
 
-#### ARTICLE 10. CHANGES TO AND ACCEPTANCE OF THE POLICIES
+#### ARTICLE 9. CHANGES TO AND ACCEPTANCE OF THE POLICIES
 
 The board may establish and amend policies relating to all aspects of the business and affairs of the society.
 
@@ -66,7 +62,7 @@ Amendments to the Society Policies may be made by the Board and shall be ratifie
 
 Amendments to the Society Policies may be made by Special Resolution of the Membership.
 
-#### ARTICLE 11. WORKSPACE
+#### ARTICLE 10. WORKSPACE
 1. **Priority**
 
     1. The primary purpose of The Society is to procure and provide access to a collaborative workspace for its members.

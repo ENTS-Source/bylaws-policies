@@ -114,9 +114,8 @@ Updated: September 24, 2024
         2. The officers of The Society shall be a President, Secretary and Treasurer. The roles of Secretary and Treasurer may be the combined into the single office of Secretary-Treasurer.
         3. The office of President and Secretary shall be filled at all times. The Board shall appoint a Director to fill these positions should a vacancy arise.
         4. The Board shall appoint the Officers of The Society. All Officer appointments shall be ratified at the next Meeting of the Membership of The Society.
-        5. *Removed*.
-        6. A director may serve on the Board for an indefinite number of terms.
-        7. When a Director resigns or is removed from the board, that Director cannot be re-elected to the Board for six months from the time of resignation. The membership may vote to override this at a Special General Meeting.
+        5. A director may serve on the Board for an indefinite number of terms.
+        6. When a Director resigns or is removed from the board, that Director cannot be re-elected to the Board for six months from the time of resignation. The membership may vote to override this at a Special General Meeting.
 
     3. Qualifications
 
@@ -145,19 +144,14 @@ Updated: September 24, 2024
         1. The Board shall meet at least monthly.
         2. The Board may set regulations governing the calling and medium of its meetings (notice, date, time, and place), the conduct of business thereat, and generally as to the conduct of its affairs.  These will be documented in The Society Policies.
         3. The President shall call and chair the meetings.  The President shall also call a meeting if any two Directors make such a request by providing notice or while having the floor at a general meeting or Board meeting, and state the business for the meeting.
-        4. *Removed*.
-        5. Directors Meetings may be held without notice if a quorum of The Board is present, provided that any business transactions at such a meeting shall be ratified at the next regularly called Directors Meeting; otherwise they shall be null and void.
-        6. One half of Directors, rounded up, shall be considered a quorum for all Directors Meetings; votes shall be passed by a simple majority unless otherwise agreed upon.
-        7. If there is no quorum, the chairperson may adjourn the meeting to the same time, place, and day of the following week.  If urgent matters requiring quorum have been tabled as a result, The Directors present at this later meeting shall constitute quorum regardless of their number.
-        8. Each Director has one vote.
-        9. Directors Meetings are open to Members in Good Standing, but only Directors may vote.  A majority vote of The Board may ask any other Member or other persons to leave.
-        10. A majority vote of The Board may move a meeting, or any portion thereof, in-camera at any time.
-        11. All Directors may agree to and sign a resolution at any time.  This resolution is as valid as one passed at any Directors Meeting.  It is not necessary to give notice or to call a Directors Meeting for the resolution in this case.  The date on the resolution is the date it is passed.
-        12. Directors shall not be able to assign proxies to represent them at Directors Meetings.
-
-            1. *Removed*.
-            2. *Removed*.
-            3. *Removed*.
+        4. Directors Meetings may be held without notice if a quorum of The Board is present, provided that any business transactions at such a meeting shall be ratified at the next regularly called Directors Meeting; otherwise they shall be null and void.
+        5. One half of Directors, rounded up, shall be considered a quorum for all Directors Meetings; votes shall be passed by a simple majority unless otherwise agreed upon.
+        6. If there is no quorum, the chairperson may adjourn the meeting to the same time, place, and day of the following week.  If urgent matters requiring quorum have been tabled as a result, The Directors present at this later meeting shall constitute quorum regardless of their number.
+        7. Each Director has one vote.
+        8. Directors Meetings are open to Members in Good Standing, but only Directors may vote.  A majority vote of The Board may ask any other Member or other persons to leave.
+        9. A majority vote of The Board may move a meeting, or any portion thereof, in-camera at any time.
+        10. All Directors may agree to and sign a resolution at any time.  This resolution is as valid as one passed at any Directors Meeting.  It is not necessary to give notice or to call a Directors Meeting for the resolution in this case.  The date on the resolution is the date it is passed.
+        11. Directors shall not be able to assign proxies to represent them at Directors Meetings.
 
     7. Duties of the President
 
